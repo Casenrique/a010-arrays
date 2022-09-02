@@ -6,7 +6,7 @@ const arrayPalavrasCopia = arrayPalavras.slice();
 const arrayMistoCopia = arrayMisto.slice();
 
 //Adicione um item `number` ao primeiro array. Utilize `console.log()` para exibir o original e a cópia;
-arrayNumerosCopia.push('number');
+arrayNumerosCopia.push(23);
 console.log(arrayNumeros, arrayNumerosCopia);
 
 //Remova o último item do segundo array. Utilize `console.log()` para exibir o original e a cópia;
